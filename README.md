@@ -13,3 +13,5 @@ The footer section will contain links  such as "About Us," "Contact Us," "Privac
 Provided all images required for this project. Create a folder and add html, css file and images on visual studio code.
 
 
+link: 
+https://eonlineshopping.netlify.app/
